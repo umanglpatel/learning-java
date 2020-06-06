@@ -8,6 +8,12 @@ public class Basic {
 		basic.sayHello(name);
 	}
 
+	
+	
+	
+	
+	
+	//comment added new feature
 	public void sayHello(String name) {
 
 		System.out.println("Hello " + name);
@@ -18,14 +24,13 @@ public class Basic {
 			int j = 1;
 		}
 //		int j = 10;
-//		System.out.println(j);
+//		System.out.println(j)
 //		int z = 20;
 		{
 			int z = 10;
 			System.out.println(z);
 		}
 		int z = 10;
-//		System.out.println(z);  // not allowed
 	}
 }
 
